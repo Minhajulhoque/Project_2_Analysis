@@ -66,7 +66,7 @@ The analysis leverages structured data to uncover insights into how specific ski
 ## **Usage**
 1. Download or clone this repository:
    ```bas
-   https://github.com/Minhajulhoque/Project_1_Salary_Dashboard.git
+   https://github.com/Minhajulhoque/Project_2_Analysis.git
 3. Navigate to the **Salary Calculator** sheet to interact with dropdowns and visual dashboards.  
 4. Use filters by *country*, *title*, or *employment type* to view targeted insights.  
 5. Optionally, explore the **Data** sheet for raw job listings and analytical experimentation.
