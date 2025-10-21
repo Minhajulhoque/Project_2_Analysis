@@ -98,3 +98,9 @@ This project is released under the **MIT License**, permitting open usage, adapt
 The Dataset and project are part of educational Excel course from Luke Barousse on [Youtube](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=19840s). I really appriciate his work and the way he helps people on their proffecional way!
 
 ---
+
+## **Author**
+- Created by **Minhajul Hoque**  *Executive - Asset Management | Arshee Inc* in 2025.
+- Excel for Data Analytics course uploaded in 2024 by Luke Barousse.
+
+---
